@@ -62,6 +62,8 @@
 	- [clean code summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 	- [Maslow's pyramid of code review](https://www.dein.fr/posts/2015-02-18-maslows-pyramid-of-code-review)
 	- [The code review](https://www.morling.dev/blog/the-code-review-pyramid/)
+	- [Javascript unit test guide](https://github.com/mawrkus/js-unit-testing-guide)
+	- [Frontend code review](https://juejin.cn/post/6900728123310997517)
 
 
 
