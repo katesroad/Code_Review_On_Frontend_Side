@@ -2,7 +2,7 @@
 
 
 - Why code review
-	- IMprove code quality
+	- Improve code quality
 	- Collective learning internally
 	- Catch issue before QA team
 
